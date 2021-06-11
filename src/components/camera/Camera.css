@@ -1,0 +1,17 @@
+#video-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.style-content {
+    transform: scale(1) skew(0deg);border-radius: 50px;
+    width: 80%;
+    height: 90%;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
